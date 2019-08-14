@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/NWT_Languagepack",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "NWT Language Pack.",
+    "authors": [
+    {
+        "name": "NWT",
+        "email": "info@nordicwebteam.se"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
