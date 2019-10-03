@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/NWT_Languagepack",
+    "name": "openmage-module-fostering\/nwt_languagepack",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "NWT Language Pack.",
     "authors": [
